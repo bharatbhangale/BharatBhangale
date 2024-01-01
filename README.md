@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Full-Stack and MERN-Stack Development**
 
-- 💬 Ask me about **HTML,CSS,JAVASCRIPT,REACT.JS,JAVA**
+- 💬 Ask me about **HTML,CSS,JAVASCRIPT,REACT.JS,NODE.JS,EXPRESS.JS,MONGODB,JAVA**
 
 - 📫 How to reach me **contact.bharat.cse@gmail.com**
 
